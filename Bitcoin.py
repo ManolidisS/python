@@ -1,3 +1,4 @@
+# THIS IS A PRANK BITCOIN MINER
 import random, string
 
 def randomword(length):
