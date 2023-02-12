@@ -1,0 +1,1 @@
+print(input("Enter words with spaces, and I'll make them into an array: ").split(" "))
